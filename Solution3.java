@@ -1,4 +1,4 @@
-class Solution {
+class Solution3 {
     public int trap(int[] height) {
         int width = 1;
         // leftmax boundary with the help of Auxillary Arrays
