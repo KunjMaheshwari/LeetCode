@@ -9,54 +9,55 @@
  * }
  */
 class Solution {
+    public ListNode merge2SortedLinkedList(ListNode head1, ListNode head2){
+        ListNode dummyNode = new ListNode(-1);
+        ListNode temp = dummyNode;
+
+        while(head1 != null && head2 != null){
+            if(head1.val <= head2.val){
+                temp.next = head1;
+                head1 = head1.next;
+            }else{
+                temp.next = head2;
+                head2 = head2.next;
+            }
+            temp = temp.next;
+
+            // remaining elements
+            if(head1 != null){
+                temp.next = head1;
+            }
+            if(head2 != null){
+                temp.next = head2;
+            }
+        }
+        return dummyNode.next;
+    }
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) {
+        // MergeSort function which will contain the head 
+        // find the mid using the tortoise and hare algorithm
+        // call the mergeSort for the left and right part 
+        // Merge them using merge2LinkedList concept.
+
+        if(head == null || head.next == null){
             return head;
         }
+        ListNode slow = head;
+        ListNode fast = head.next;
 
-        ListNode mid = getMiddle(head);
-        ListNode left = head;
-        ListNode right = mid.next;
-        mid.next = null;
-
-        left = sortList(left);
-        right = sortList(right);
-
-        return merge(left, right);
-    }
-
-    private ListNode getMiddle(ListNode head) {
-        if (head == null) return head;
-
-        ListNode slow = head, fast = head.next;
-        while (fast != null && fast.next != null) {
+        while(fast != null && fast.next != null){
             slow = slow.next;
             fast = fast.next.next;
         }
-        return slow;
-    }
+        ListNode middleNode = slow;
 
-    private ListNode merge(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
+        ListNode rightHead = middleNode.next;
+        middleNode.next = null;
+        ListNode leftHead = head;
 
-        while (l1 != null && l2 != null) {
-            if (l1.val <= l2.val) {
-                current.next = l1;
-                l1 = l1.next;
-            } else {
-                current.next = l2;
-                l2 = l2.next;
-            }
-            current = current.next;
-        }
+        leftHead = sortList(leftHead);
+        rightHead = sortList(rightHead);
 
-        if (l1 != null) {
-            current.next = l1;
-        } else if (l2 != null) {
-            current.next = l2;
-        }
-
-        return dummy.next;
+        return merge2SortedLinkedList(leftHead, rightHead);
     }
 }
