@@ -15,15 +15,15 @@
  */
 class Solution {
     public int maxDepth(TreeNode root) {
-        // base condition 
         if(root == null){
             return 0;
         }
 
-        // kaam
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
+        int leftSubTreeHeight = maxDepth(root.left);
+        int rightSubTreeHeight = maxDepth(root.right);
 
-        return Math.max(left, right)+1; //we have to add root as well.
+        int height = Math.max(leftSubTreeHeight, rightSubTreeHeight)+1;
+
+        return height;
     }
 }
