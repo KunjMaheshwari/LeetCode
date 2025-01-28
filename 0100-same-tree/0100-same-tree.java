@@ -19,7 +19,7 @@ class Solution {
             return true;
         }
 
-        if(p == null || q== null){
+        if(p == null || q == null){
             return false;
         }
 
@@ -27,6 +27,9 @@ class Solution {
             return false;
         }
 
-        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+        if(isSameTree(p.left, q.left) && isSameTree(p.right, q.right)){
+            return true;
+        }
+        return false;
     }
 }
