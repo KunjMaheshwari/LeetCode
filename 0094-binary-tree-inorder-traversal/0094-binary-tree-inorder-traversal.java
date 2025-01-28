@@ -14,19 +14,20 @@
  * }
  */
 class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> arr = new ArrayList<>();
-        inorderHelper(root, arr);
-        return arr;
-    }
-    
-    private void inorderHelper(TreeNode root, List<Integer> arr) {
-        if (root == null) {
+    public static void func(TreeNode root,List<Integer> ans){
+        if(root == null){
             return;
         }
-        
-        inorderHelper(root.left, arr);
-        arr.add(root.val);
-        inorderHelper(root.right, arr);
+
+        func(root.left, ans);
+        ans.add(root.val);
+        func(root.right, ans);
+    }
+    public List<Integer> inorderTraversal(TreeNode root) {
+        List<Integer> ans = new ArrayList<>();
+
+        func(root, ans);
+
+        return ans;
     }
 }
