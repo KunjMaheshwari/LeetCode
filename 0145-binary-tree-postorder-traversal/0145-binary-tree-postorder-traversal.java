@@ -14,30 +14,17 @@
  * }
  */
 class Solution {
+    public static void func(TreeNode root, List<Integer> ans){
+        if(root == null){
+            return;
+        }
+        func(root.left, ans);
+        func(root.right, ans);
+        ans.add(root.val);
+    }
     public List<Integer> postorderTraversal(TreeNode root) {
-        if (root == null) return new ArrayList<>();
-
-        Deque<TreeNode> stack1 = new ArrayDeque<>();
-        Deque<TreeNode> stack2 = new ArrayDeque<>();
-        stack1.push(root);
-
-        while (!stack1.isEmpty()) {
-            TreeNode current = stack1.pop();
-            stack2.push(current);
-
-            if (current.left != null) {
-                stack1.push(current.left);
-            }
-            if (current.right != null) {
-                stack1.push(current.right);
-            }
-        }
-
-        List<Integer> result = new ArrayList<>();
-        while (!stack2.isEmpty()) {
-            result.add(stack2.pop().val);
-        }
-
-        return result;
+        List<Integer> ans = new ArrayList<>();
+        func(root, ans);
+        return ans;
     }
 }
