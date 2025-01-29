@@ -1,31 +1,35 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- *     int data;
+ *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode(int val) { data = val; left = null, right = null }
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
- **/
-
+ */
 class Solution {
-    public static int findMaxPathSum(TreeNode root, int maxi[]){
+    public static int findMaxPath(TreeNode root, int maxi[]){
         if(root == null){
             return 0;
         }
 
-        int leftMaxPath = Math.max(0, findMaxPathSum(root.left, maxi));
-        int rightMaxPath = Math.max(0, findMaxPathSum(root.right, maxi));
+        int leftMax = Math.max(0, findMaxPath(root.left, maxi));
+        int rightMax = Math.max(0, findMaxPath(root.right, maxi));
 
-        maxi[0] = Math.max(maxi[0], leftMaxPath + rightMaxPath + root.val);
+        maxi[0] = Math.max(leftMax + rightMax + root.val, maxi[0]);
 
-        return Math.max(leftMaxPath, rightMaxPath) + root.val;
+        return Math.max(leftMax, rightMax) + root.val;
     }
     public int maxPathSum(TreeNode root) {
-        //your code goes here 
         int maxi[] = {Integer.MIN_VALUE};
 
-        findMaxPathSum(root, maxi);
+        findMaxPath(root, maxi);
 
         return maxi[0];
     }
