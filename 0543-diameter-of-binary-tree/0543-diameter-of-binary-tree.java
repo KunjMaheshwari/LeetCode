@@ -14,32 +14,31 @@
  * }
  */
 class Solution {
-    public static class Info {
+    static class Info{
         int diam;
         int ht;
 
-        public Info(int diam, int ht) {
+        public Info(int diam, int ht){
             this.diam = diam;
             this.ht = ht;
         }
     }
 
-    public int diameterOfBinaryTree(TreeNode root) {
-        return diameter(root).diam;
-    }
-
-    private Info diameter(TreeNode root) {
-
-        if (root == null) {
+    public static Info diameterHelper(TreeNode root){
+        if(root == null){
             return new Info(0, 0);
         }
 
-        Info leftInfo = diameter(root.left);
-        Info rightInfo = diameter(root.right);
+        Info leftInfo = diameterHelper(root.left);
+        Info rightInfo = diameterHelper(root.right);
+
         int diam = Math.max(Math.max(leftInfo.diam, rightInfo.diam), leftInfo.ht + rightInfo.ht);
-       
-        int ht = Math.max(leftInfo.ht, rightInfo.ht) + 1;
+        int ht = Math.max(leftInfo.ht, rightInfo.ht)+1;
 
         return new Info(diam, ht);
+    }
+
+    public int diameterOfBinaryTree(TreeNode root) {
+        return diameterHelper(root).diam;
     }
 }
