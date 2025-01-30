@@ -15,7 +15,6 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        // Time complexity will be O(N)
         if(root == null){
             return 0;
         }
@@ -23,6 +22,6 @@ class Solution {
         int leftCount = countNodes(root.left);
         int rightCount = countNodes(root.right);
 
-        return leftCount+rightCount+1;
+        return leftCount +  rightCount + 1;
     }
 }
