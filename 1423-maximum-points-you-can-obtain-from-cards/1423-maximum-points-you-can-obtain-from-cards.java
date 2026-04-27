@@ -9,14 +9,13 @@ class Solution {
             maxSum = leftSum;
         }
 
-        int rightIndex = cardPoints.length-1;
+        int rightIdx = cardPoints.length-1;
 
         for(int i=k-1;i>=0;i--){
             leftSum -= cardPoints[i];
-            rightSum += cardPoints[rightIndex];
-            rightIndex --;
-
-            maxSum = Math.max(maxSum, leftSum + rightSum);
+            rightSum += cardPoints[rightIdx];
+            rightIdx--;
+            maxSum = Math.max(maxSum, leftSum+rightSum);
         }
         return maxSum;
     }
