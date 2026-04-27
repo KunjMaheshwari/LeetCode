@@ -1,26 +1,21 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        // 2 pointer striver approach
         int left = 0;
         int right = 0;
-        int zeroes = 0;
         int maxLen = 0;
-        int n = nums.length;
+        int zeros = 0;
 
-        while(right < n){
+        while(right < nums.length){
             if(nums[right] == 0){
-                zeroes++;
+                zeros++;
             }
-            if(zeroes > k){
+            while(zeros > k){
                 if(nums[left] == 0){
-                    zeroes--;
+                    zeros--;
                 }
                 left++;
             }
-            if(zeroes <= k){
-                int len = right-left+1;
-                maxLen = Math.max(maxLen, len);
-            }
+            maxLen = Math.max(maxLen, right-left+1);
             right++;
         }
         return maxLen;
