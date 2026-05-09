@@ -11,6 +11,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KunjMaheshwari/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1914-cyclically-rotating-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Math
 |  |
@@ -47,6 +48,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/KunjMaheshwari/LeetCode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunjMaheshwari/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KunjMaheshwari/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KunjMaheshwari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
