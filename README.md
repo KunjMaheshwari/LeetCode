@@ -8,6 +8,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/KunjMaheshwari/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KunjMaheshwari/LeetCode/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0904-fruit-into-baskets](https://github.com/KunjMaheshwari/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Greedy
