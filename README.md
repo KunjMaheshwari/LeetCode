@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/KunjMaheshwari/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KunjMaheshwari/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0015-3sum](https://github.com/KunjMaheshwari/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/KunjMaheshwari/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunjMaheshwari/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Depth-First Search
@@ -88,6 +90,7 @@
 | [0001-two-sum](https://github.com/KunjMaheshwari/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunjMaheshwari/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KunjMaheshwari/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KunjMaheshwari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/KunjMaheshwari/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -118,4 +121,8 @@
 | [0015-3sum](https://github.com/KunjMaheshwari/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/KunjMaheshwari/LeetCode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
