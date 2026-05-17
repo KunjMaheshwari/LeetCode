@@ -17,6 +17,7 @@
 | [0904-fruit-into-baskets](https://github.com/KunjMaheshwari/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/KunjMaheshwari/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KunjMaheshwari/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunjMaheshwari/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -49,10 +50,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Union-Find
 |  |
