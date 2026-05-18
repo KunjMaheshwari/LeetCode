@@ -26,6 +26,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2965-find-missing-and-repeated-values](https://github.com/KunjMaheshwari/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3193-count-the-number-of-inversions](https://github.com/KunjMaheshwari/LeetCode/tree/master/3193-count-the-number-of-inversions) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Math
 |  |
@@ -115,6 +116,7 @@
 | [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3193-count-the-number-of-inversions](https://github.com/KunjMaheshwari/LeetCode/tree/master/3193-count-the-number-of-inversions) |
 ## Greedy
 |  |
 | ------- |
