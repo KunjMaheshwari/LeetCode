@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KunjMaheshwari/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/KunjMaheshwari/LeetCode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KunjMaheshwari/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/KunjMaheshwari/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KunjMaheshwari/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/KunjMaheshwari/LeetCode/tree/master/0075-sort-colors) |
@@ -37,6 +38,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KunjMaheshwari/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
