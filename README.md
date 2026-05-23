@@ -23,6 +23,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KunjMaheshwari/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunjMaheshwari/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KunjMaheshwari/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
