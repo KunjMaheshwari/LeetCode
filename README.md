@@ -28,6 +28,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2965-find-missing-and-repeated-values](https://github.com/KunjMaheshwari/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3193-count-the-number-of-inversions](https://github.com/KunjMaheshwari/LeetCode/tree/master/3193-count-the-number-of-inversions) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Math
@@ -108,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunjMaheshwari/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KunjMaheshwari/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KunjMaheshwari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Simulation
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
