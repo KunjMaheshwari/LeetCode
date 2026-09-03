@@ -34,6 +34,7 @@
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-weighted-word-mapping](https://github.com/KunjMaheshwari/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/KunjMaheshwari/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KunjMaheshwari/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
