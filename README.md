@@ -25,6 +25,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/KunjMaheshwari/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunjMaheshwari/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KunjMaheshwari/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -109,6 +110,7 @@
 | [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/KunjMaheshwari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/KunjMaheshwari/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/KunjMaheshwari/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
@@ -117,6 +119,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunjMaheshwari/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KunjMaheshwari/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KunjMaheshwari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3838-weighted-word-mapping](https://github.com/KunjMaheshwari/LeetCode/tree/master/3838-weighted-word-mapping) |
