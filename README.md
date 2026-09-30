@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/KunjMaheshwari/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
 | [0904-fruit-into-baskets](https://github.com/KunjMaheshwari/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/KunjMaheshwari/LeetCode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/KunjMaheshwari/LeetCode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/KunjMaheshwari/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KunjMaheshwari/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -149,6 +151,7 @@
 | ------- |
 | [0015-3sum](https://github.com/KunjMaheshwari/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/KunjMaheshwari/LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/KunjMaheshwari/LeetCode/tree/master/0189-rotate-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KunjMaheshwari/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
