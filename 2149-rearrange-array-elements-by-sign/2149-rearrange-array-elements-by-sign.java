@@ -1,43 +1,27 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
-        ArrayList<Integer> positiveNum = new ArrayList<>();
-        ArrayList<Integer> negativeNum = new ArrayList<>();
+        ArrayList<Integer> evenNum = new ArrayList<>();
+        ArrayList<Integer> oddNum = new ArrayList<>();
+
         ArrayList<Integer> result = new ArrayList<>();
 
         for(int i=0;i<nums.length;i++){
-            if(nums[i] >= 0){
-                positiveNum.add(nums[i]);
+            if(nums[i] > 0){
+                evenNum.add(nums[i]);
             }else{
-                negativeNum.add(nums[i]);
+                oddNum.add(nums[i]);
             }
         }
 
-        int positiveIdx = 0;
-        int negativeIdx = 0;
-
-        while(positiveIdx < positiveNum.size() && negativeIdx < negativeNum.size()){
-            result.add(positiveNum.get(positiveIdx));
-            result.add(negativeNum.get(negativeIdx));
-
-            positiveIdx++;
-            negativeIdx++;
+        for(int i=0;i<evenNum.size();i++){
+            result.add(evenNum.get(i));
+            result.add(oddNum.get(i));
         }
 
-        while(positiveIdx < positiveNum.size()){
-            result.add(positiveNum.get(positiveIdx));
-            positiveIdx++;
+        int[] ans = new int[result.size()];
+        for (int i = 0; i < result.size(); i++) {
+            ans[i] = result.get(i);
         }
-
-        while(negativeIdx < negativeNum.size()){
-            result.add(negativeNum.get(negativeIdx));
-            negativeIdx++;
-        }
-
-        int combinedResult[] = new int[result.size()];
-        for(int i=0;i<combinedResult.length;i++){
-            combinedResult[i] = result.get(i);
-        }
-
-        return combinedResult;
+        return ans;
     }
 }
