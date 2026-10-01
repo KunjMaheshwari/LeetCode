@@ -6,12 +6,9 @@ class Solution {
 
         for (int i = 0; i < str.length(); i++) {
             char ch = str.charAt(i);
-
-            // Opening brackets
             if (ch == '(' || ch == '{' || ch == '[') {
                 s.push(ch);
             } else {
-                // Closing brackets
                 if (s.isEmpty()) {
                     return false;
                 }
@@ -26,4 +23,3 @@ class Solution {
         return s.isEmpty();
     }
 }
-
