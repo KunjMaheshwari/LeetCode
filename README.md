@@ -126,6 +126,7 @@
 | [0020-valid-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/KunjMaheshwari/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/KunjMaheshwari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -143,12 +144,14 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3193-count-the-number-of-inversions](https://github.com/KunjMaheshwari/LeetCode/tree/master/3193-count-the-number-of-inversions) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KunjMaheshwari/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunjMaheshwari/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KunjMaheshwari/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
@@ -193,6 +197,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Divide and Conquer
 |  |
