@@ -1,18 +1,21 @@
-public class Solution {
+class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        for (char x : s.toCharArray()) {
-            if (!stack.isEmpty() && stack.peek() == '(' && x == ')') {
-                stack.pop();
+        int balance = 0;
+        int additions = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            if (s.charAt(i) == '(') {
+                balance++;
             } else {
-                stack.push(x);
+                if (balance > 0) {
+                    balance--;
+                } else {
+                    additions++;
+                }
             }
         }
-        return stack.size();
-    }
 
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-        System.out.println(sol.minAddToMakeValid("())")); // Example usage
+        return additions + balance;
     }
 }
