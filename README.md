@@ -128,6 +128,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/KunjMaheshwari/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjMaheshwari/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -190,6 +191,7 @@
 | [0020-valid-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjMaheshwari/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KunjMaheshwari/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Backtracking
@@ -202,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjMaheshwari/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Divide and Conquer
 |  |
