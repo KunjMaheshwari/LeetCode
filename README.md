@@ -31,6 +31,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjMaheshwari/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2965-find-missing-and-repeated-values](https://github.com/KunjMaheshwari/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -54,6 +55,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KunjMaheshwari/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunjMaheshwari/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjMaheshwari/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Geometry
@@ -68,6 +70,7 @@
 | [0169-majority-element](https://github.com/KunjMaheshwari/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0229-majority-element-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunjMaheshwari/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjMaheshwari/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunjMaheshwari/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
@@ -156,6 +159,7 @@
 | [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KunjMaheshwari/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunjMaheshwari/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjMaheshwari/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
@@ -214,4 +218,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KunjMaheshwari/LeetCode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/KunjMaheshwari/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
