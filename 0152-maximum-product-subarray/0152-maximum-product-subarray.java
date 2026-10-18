@@ -1,27 +1,21 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        // Initialize the result with the first element
-        int maxProduct = nums[0];
-        int currMax = nums[0];
-        int currMin = nums[0]; // Track the minimum product
+        int result = Integer.MIN_VALUE;
+        int prefix = 1;
+        int suffix = 1;
 
-        // Traverse the array starting from the second element
-        for (int i = 1; i < nums.length; i++) {
-            // If the current number is negative, swap the current max and min
-            if (nums[i] < 0) {
-                int temp = currMax;
-                currMax = currMin;
-                currMin = temp;
+        for(int i=0;i<nums.length;i++){
+            if(prefix == 0){
+                prefix = 1;
             }
+            if(suffix == 0){
+                suffix = 1;
+            }
+            prefix *= nums[i];
+            suffix *= nums[nums.length-i-1];
 
-            // Update the current max and min
-            currMax = Math.max(nums[i], currMax * nums[i]);
-            currMin = Math.min(nums[i], currMin * nums[i]);
-
-            // Update the global maximum product
-            maxProduct = Math.max(maxProduct, currMax);
+            result = Math.max(result, Math.max(prefix, suffix));
         }
-
-        return maxProduct;
+        return result;
     }
 }
