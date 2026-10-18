@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/KunjMaheshwari/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/KunjMaheshwari/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/KunjMaheshwari/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KunjMaheshwari/LeetCode/tree/master/0189-rotate-array) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/KunjMaheshwari/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/KunjMaheshwari/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjMaheshwari/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
