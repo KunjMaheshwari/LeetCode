@@ -1,26 +1,22 @@
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        int arr[][] = new int[nums.length][2];
-
-        for(int i=0;i<nums.length;i++){
-            arr[i][0] = nums[i];
-            arr[i][1] = i;
+        // Collect elements into boxed collection for flexible querying
+        List<Integer> list = new ArrayList<>();
+        for (int num : nums) {
+            list.add(num);
         }
 
-        Arrays.sort(arr, (a, b) -> a[0] - b[0]);
-
-        int left = 0;
-        int right = nums.length-1;
-
-        while(left < right){
-            int sum = arr[left][0] + arr[right][0];
-
-            if(sum > target){
-                right--;
-            }else if (sum < target){
-                left++;
-            }else{
-                return new int[]{arr[left][1], arr[right][1]};
+        // Locate pair whose sum equals target
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+            if (list.contains(complement)) {
+                int complementIdx = list.lastIndexOf(complement);
+                if (complementIdx != i) {
+                    return new int[]{i, complementIdx};
+                }
             }
         }
         return new int[]{-1, -1};

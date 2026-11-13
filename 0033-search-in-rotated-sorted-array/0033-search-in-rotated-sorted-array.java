@@ -1,30 +1,32 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int n = nums.length;
+        if (nums == null || nums.length == 0) {
+            return -1;
+        }
 
         int low = 0;
-        int high = n-1;
+        int high = nums.length - 1;
 
-        while(low <= high){
-            int mid = (low+high)/2;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
 
-            if(nums[mid] == target){
+            if (nums[mid] == target) {
                 return mid;
             }
 
-            if(nums[low] <= nums[mid]){
-                if(nums[low] <= target && target <= nums[mid]){
-                    high = mid-1;
-                }else{
-                    low = mid+1;
+            // Check if left half is normally ordered
+            if (nums[low] <= nums[mid]) {
+                if (nums[low] < target && target < nums[mid]) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
                 }
-            }
-
-            if(nums[mid] <= nums[high]){
-                if(nums[mid] <= target && target <= nums[high]){
-                    low = mid+1;
-                }else{
-                    high = mid-1;
+            } else {
+                // Right half is ordered
+                if (nums[mid] < target && target <= nums[high]) {
+                    low = mid + 1;
+                } else {
+                    high = mid;
                 }
             }
         }

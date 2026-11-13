@@ -10,21 +10,41 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if(head == null || head.next == null){
+        if (head == null || head.next == null) {
             return head;
         }
 
-        ListNode curr = head;
-        ListNode prev = null;
-        ListNode next = null;
-
-        while(curr != null){
-            next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+        // Count list size for partitioned reversal strategy
+        int cnt = 0;
+        ListNode temp = head;
+        while (temp != null) {
+            cnt++;
+            temp = temp.next;
         }
 
-        return prev;
+        ListNode a = head;
+        ListNode b = null;
+        ListNode c = null;
+        boolean flag = (cnt % 2 == 0);
+
+        if (flag) {
+            // Path for even-length lists
+            while (a != null) {
+                c = a.next;
+                a.next = b;
+                b = a;
+                a = c;
+            }
+            return b;
+        } else {
+            // Duplicated reversal loop for odd-length lists
+            while (a != null) {
+                c = a.next;
+                a.next = b;
+                b = a;
+                a = c;
+            }
+            return b;
+        }
     }
 }
