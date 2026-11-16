@@ -161,6 +161,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KunjMaheshwari/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3838-weighted-word-mapping](https://github.com/KunjMaheshwari/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -172,6 +173,7 @@
 | [0054-spiral-matrix](https://github.com/KunjMaheshwari/LeetCode/tree/master/0054-spiral-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KunjMaheshwari/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/KunjMaheshwari/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
