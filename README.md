@@ -162,6 +162,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunjMaheshwari/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KunjMaheshwari/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3093-longest-common-suffix-queries](https://github.com/KunjMaheshwari/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3838-weighted-word-mapping](https://github.com/KunjMaheshwari/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -184,6 +185,7 @@
 | [0678-valid-parenthesis-string](https://github.com/KunjMaheshwari/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunjMaheshwari/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunjMaheshwari/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KunjMaheshwari/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3193-count-the-number-of-inversions](https://github.com/KunjMaheshwari/LeetCode/tree/master/3193-count-the-number-of-inversions) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KunjMaheshwari/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KunjMaheshwari/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -207,6 +209,7 @@
 | [0283-move-zeroes](https://github.com/KunjMaheshwari/LeetCode/tree/master/0283-move-zeroes) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KunjMaheshwari/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KunjMaheshwari/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/KunjMaheshwari/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KunjMaheshwari/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
